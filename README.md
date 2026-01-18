@@ -65,13 +65,17 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+[![Lonestar02's tryhackme stats](https://raw.githubusercontent.com/<Lonestar02>/<Lonestar02>/master/assets/thm_propic.png)][tryhackme]
+
 ###
-![tryhackme stats](https://raw.githubusercontent.com/<Lonestar02>/<Lonestar02>/master/assets/thm_propic.png)
+
 <div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Lonestar02.png" alt="Your Image Badge" />
   <img src="https://streak-stats.demolab.com?user=Lonestar02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+
 
 <!--
 **Lonestar02/Lonestar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -87,3 +91,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[tryhackme]: https://tryhackme.com/p/Lonestar02
