@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="assests/up.jpg" width="500"  />
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">Booting… Hello!⚡</h1>
+<h1 align="center">Booting… Hello!👋</h1>
 
 ###
 
@@ -75,6 +75,9 @@
 
 ###
 
+<div align="center">
+  <img src="assests/down.jpg" width="800" height="200"  />
+</div>
 
 <!--
 **Lonestar02/Lonestar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
