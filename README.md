@@ -65,7 +65,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-[![Lonestar02's tryhackme stats](https://raw.githubusercontent.com/<Lonestar02>/<Lonestar02>/master/assets/thm_propic.png)][tryhackme]
+![Lonestar02's TryHackMe stats](https://github.com/Lonestar02/Lonestar02/blob/main/assests/thm_propic.png)
 
 ###
 
