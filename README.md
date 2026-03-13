@@ -69,7 +69,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lonestar02/Lonestar02/main/assets/thm_propic.png" alt="TryHackMe Badge" style="height:100px;"/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Lonestar02.png" alt="Your Image Badge" />
   <img src="https://streak-stats.demolab.com?user=Lonestar02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
